@@ -11,6 +11,7 @@ I have identified the following major issues in the original design:
 2. A list of holidays occupies a large amount of space while providing no additional information.
 3. On the day when one is likely to place a blue recycling bin at the curb, the date is marked in red. On the day when one is likely to place a green recycling bin at the curb, the date is marked in blue.
 4. Weekends are shown, but they are never needed.
+
 In addition, November 22, 2024 is erroneously colored to indicate Zone 1 garbage pickup will occur when it will not.
 
 The general result of all this is a calendar that takes an unusually large amount of effort to understand.
