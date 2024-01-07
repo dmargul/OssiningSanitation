@@ -6,7 +6,7 @@ Every year, the Village of Ossining distributes a schedule to all residents deta
 After living in Ossining for a short time, I became obsessed with redesigning [this human rights violation](https://www.villageofossining.org/public-works/files/2024-sanitation-schedule).
 
 ## Design
-I have identified the following major issues in the original design:
+I have identified the following major issues with the original design:
 1. Residents of 'Zone 1' and 'Zone 2' have different schedules, but both schedules are shown on a single calendar.
 2. A list of holidays occupies a large amount of space while providing no additional information.
 3. On the day when one is likely to place a blue recycling bin at the curb, the date is marked in red. On the day when one is likely to place a green recycling bin at the curb, the date is marked in blue.
