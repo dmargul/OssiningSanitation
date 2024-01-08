@@ -3,7 +3,7 @@
 ## Motivation
 Every year, the Village of Ossining distributes a schedule to all residents detailing the schedule of garbage and recycling collections. 
 
-After living in Ossining for a short time, I became obsessed with redesigning [this human rights violation](https://www.villageofossining.org/public-works/files/2024-sanitation-schedule).
+After living in Ossining for a short time, I became obsessed with redesigning [the document](https://www.villageofossining.org/public-works/files/2024-sanitation-schedule).
 
 ## Design
 I have identified the following major issues with the original design:
@@ -23,6 +23,4 @@ I will share the code used to generate the *.svg files when it is less of an emb
 
 ## Acknowledgments
 Thank you to the garbage, recycling, and leaf collectors of the Village of Ossining, who unlike me have a real job and make our lives better. 
-And thank you in advance to the Ossining Department of Public Works for being good sports about my ridiculous comments above.
-
 
