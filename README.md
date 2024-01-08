@@ -23,6 +23,6 @@ I will share the code used to generate the *.svg files when it is less of an emb
 
 ## Acknowledgments
 Thank you to the garbage, recycling, and leaf collectors of the Village of Ossining, who unlike me have a real job and make our lives better. 
-And thank you in advance to the Ossining Department of Public Works for being good sports about the whole "human rights violation" thing.
+And thank you in advance to the Ossining Department of Public Works for being good sports about my ridiculous comments above.
 
 
